@@ -1,0 +1,11 @@
+body {
+  font-family: 'Classic Comic';
+  color: red;
+  margin: 10px 50px 10px 50px;
+  background-image: url("https://dncache-mauganscorp.netdna-ssl.com/thumbseg/2005/2005466-bigthumbnail.jpg");
+}
+
+h1, h2 {
+  font-family: 'comic geek';
+  color-profile: white;
+}
